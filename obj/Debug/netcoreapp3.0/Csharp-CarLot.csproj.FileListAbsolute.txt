@@ -1,0 +1,3 @@
+C:\Users\Oakley\desktop\workspace\Csharp-CarLot\obj\Debug\netcoreapp3.0\Csharp-CarLot.csprojAssemblyReference.cache
+C:\Users\Oakley\desktop\workspace\Csharp-CarLot\obj\Debug\netcoreapp3.0\Csharp-CarLot.AssemblyInfoInputs.cache
+C:\Users\Oakley\desktop\workspace\Csharp-CarLot\obj\Debug\netcoreapp3.0\Csharp-CarLot.AssemblyInfo.cs
